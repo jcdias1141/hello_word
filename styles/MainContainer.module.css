@@ -1,0 +1,13 @@
+.container {
+    min-height: 60vh;
+    text-align: center;
+}
+
+.container h1 {
+    color: #fff;
+    background-image: url('/images/background.jpg');
+    background-position: center;
+    padding: 20px;
+    background-size: contain;
+    margin-bottom: 20px;
+}
