@@ -8,6 +8,6 @@ export default function NotFound() {
             <Link href={"/"}>
                 <a>Voltar</a>
             </Link>
-        </>
+        </> 
     )
 }
